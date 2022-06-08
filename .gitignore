@@ -1,0 +1,13 @@
+/build
+*.o
+.*
+
+/pi_hex_1b.txt
+
+!.clang-format
+!.cocciconfig
+!.get_maintainer.ignore
+!.gitattributes
+!.gitignore
+!.github
+!.mailmap
